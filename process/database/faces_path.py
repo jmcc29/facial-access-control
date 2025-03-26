@@ -1,0 +1,1 @@
+faces_path: str = 'process/databases/faces'
